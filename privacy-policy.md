@@ -25,7 +25,7 @@ Dietary restriction data may reveal allergies or dietary practice. We collect it
 - Provide core features (scan, search, bookmarks) and maintain your account
 - Operate, secure, and improve the Service
 
-We do not sell personal data and do not use it for advertising.
+We do not sell personal data. If you separately opt in, we use only the data listed in the [Marketing Push Consent](marketing-push-consent.html) to send menu-scanning suggestions around meal times.
 
 ### 3. Processors and International Transfer
 
@@ -76,7 +76,7 @@ K-Bap("서비스")은 한국 방문·거주 외국인이 자신의 식이 제한
 - 핵심 기능(스캔·검색·북마크) 제공 및 계정 관리
 - 서비스 운영·보안·개선
 
-개인정보를 판매하지 않으며 광고 목적으로 사용하지 않습니다.
+개인정보를 판매하지 않습니다. 별도로 동의한 경우에만 [마케팅 푸시 알림 동의](marketing-push-consent.html)에 기재된 정보를 식사 시간대 메뉴 스캔 제안 전송에 이용합니다.
 
 ### 3. 처리 위탁 및 국외 이전
 
