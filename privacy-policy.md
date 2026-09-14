@@ -1,6 +1,6 @@
 # K-Bap Privacy Policy / 개인정보 처리방침
 
-Effective date / 시행일: 2026-07-16 · Version 1.0
+Effective date / 시행일: 2026-09-14 · Version 1.1
 
 ---
 
