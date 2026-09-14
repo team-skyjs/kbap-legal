@@ -1,6 +1,10 @@
-# K-Bap Marketing Push Consent / K-Bap 마케팅 푸시 알림 동의
+# K-Bap Marketing Consent Texts / K-Bap 마케팅 동의 전문
 
-Effective date / 시행일: 2026-09-14 · Consent text version / 동의 문구 버전: 2
+Effective date / 시행일: 2026-09-14
+
+This document contains two separate optional consents. Both are required to receive menu-scanning suggestion push notifications, and each consent must be presented and recorded separately.
+
+본 문서는 서로 구분되는 두 가지 선택 동의 전문을 담고 있습니다. 메뉴 스캔 제안 푸시 알림을 받으려면 두 항목에 모두 동의해야 하며, 각 동의는 별도로 제시하고 기록합니다.
 
 ---
 
@@ -8,7 +12,9 @@ Effective date / 시행일: 2026-09-14 · Consent text version / 동의 문구 �
 
 The following consents are optional. You may use all core K-Bap features without agreeing. If you decline or withdraw either consent, you will not receive menu-scanning suggestions by push notification.
 
-### 1. Optional Consent to Collect and Use Personal Data for Marketing
+### Consent 1: Optional Consent to Collect and Use Personal Data for Marketing
+
+Consent text version: 2
 
 | Item | Details |
 |---|---|
@@ -18,7 +24,9 @@ The following consents are optional. You may use all core K-Bap features without
 
 You may refuse this consent. Refusal will not affect your use of K-Bap, but you will not receive menu-scanning suggestions by push notification.
 
-### 2. Consent to Receive Commercial Advertising Information
+### Consent 2: Optional Consent to Receive Commercial Advertising Information
+
+Consent text version: 2
 
 | Item | Details |
 |---|---|
@@ -44,7 +52,9 @@ If the English and Korean texts differ, the Korean text governs.
 
 아래 동의는 모두 선택 사항입니다. 동의하지 않아도 K-Bap의 핵심 기능을 이용할 수 있습니다. 두 동의 중 하나라도 거부하거나 철회하면 메뉴 스캔 제안 푸시 알림을 받지 않습니다.
 
-### 1. 마케팅 목적 개인정보 수집·이용 동의(선택)
+### 동의 1: 마케팅 목적 개인정보 수집·이용 동의(선택)
+
+동의 문구 버전: 2
 
 | 항목 | 내용 |
 |---|---|
@@ -54,7 +64,9 @@ If the English and Korean texts differ, the Korean text governs.
 
 동의를 거부할 수 있습니다. 거부해도 K-Bap 이용에는 제한이 없으나 메뉴 스캔 제안 푸시 알림을 받을 수 없습니다.
 
-### 2. 광고성 정보 수신 동의
+### 동의 2: 광고성 정보 수신 동의(선택)
+
+동의 문구 버전: 2
 
 | 항목 | 내용 |
 |---|---|
