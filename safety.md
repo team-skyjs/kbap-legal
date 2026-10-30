@@ -1,6 +1,6 @@
 # K-Bap Safety Notice / 안전 고지
 
-Effective date / 시행일: 2026-07-23 · Version 1.0
+Effective date / 시행일: 2026-07-23 · Version 1.1 (updated / 개정 2026-10-30: risk label names aligned with the app / 위험도 표시 이름을 앱과 통일)
 
 ---
 
@@ -10,7 +10,7 @@ Effective date / 시행일: 2026-07-23 · Version 1.0
 
 - K-Bap provides **reference information only. It is not medical, nutritional, or allergy advice.**
 - Food and ingredient data may be **incomplete, outdated, or inaccurate**. Actual dishes vary by restaurant, recipe, and preparation, and **cross-contamination can occur in any kitchen**.
-- Risk labels (Safe / Caution / Danger / Unable to assess) are estimates computed from available data:
+- Risk labels (Safe / Caution / Avoid / Unable to assess) are estimates computed from available data:
   - A **"Safe"** or low-risk label is **not a guarantee** that a dish is free of your avoided ingredients.
   - **"Unable to assess"** means we genuinely do not know.
   - If you have **not set any avoided ingredients**, risk labels reflect general information only — they are **not a personal assessment** for you.
@@ -30,7 +30,7 @@ Effective date / 시행일: 2026-07-23 · Version 1.0
 
 - K-Bap은 **참고용 정보만 제공합니다. 의학적·영양학적·알레르기 관련 조언이 아닙니다.**
 - 음식·재료 데이터는 **불완전하거나 최신이 아니거나 부정확할 수 있습니다.** 실제 요리는 식당·레시피·조리 방식에 따라 다르며, **어떤 주방에서든 교차 오염이 발생할 수 있습니다.**
-- 위험도 표시(안전/주의/위험/판정 불가)는 보유 데이터로 계산한 추정치입니다:
+- 위험도 표시(안전/주의/회피/판정 불가)는 보유 데이터로 계산한 추정치입니다:
   - **"안전"** 표시는 회피 재료가 없음을 **보장하지 않습니다.**
   - **"판정 불가"**는 말 그대로 알 수 없다는 뜻입니다.
   - **회피 재료를 설정하지 않은 경우**, 위험도 표시는 일반 정보일 뿐 **개인 맞춤 판정이 아닙니다.**
