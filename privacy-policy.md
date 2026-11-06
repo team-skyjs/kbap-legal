@@ -1,6 +1,6 @@
 # K-Bap Privacy Policy / 개인정보 처리방침
 
-Effective date / 시행일: 2026-09-14 · Version 1.1
+Effective date / 시행일: 2026-11-14 · Version 1.2
 
 ---
 
@@ -14,7 +14,7 @@ K-Bap ("the Service", "we") helps foreign visitors and residents in Korea check 
 |---|---|---|
 | Account | Social login identifier (Apple/Google unique ID), email (optional — Apple users may hide it) | Sign-in |
 | Profile | Nickname, nationality, app language, **dietary restrictions / avoided ingredients**, spiciness preference, profile photo (optional) | Onboarding & profile edit |
-| Usage | Menu photos you scan, text extracted from them, scan count, bookmarked foods | Using the Service |
+| Usage | Menu and packaged-food photos you scan, text extracted from them, scan count, bookmarked foods | Using the Service |
 | Automatic | Service access logs required for operation and security | Automatically |
 
 Dietary restriction data may reveal allergies or dietary practice. We collect it **only with your consent** and use it **solely to show personalized risk information**. You may use the Service without an account (browse mode); in that case no profile data is collected.
@@ -35,12 +35,14 @@ To run the Service we use the following processors. Data may be processed outsid
 |---|---|---|
 | Google Firebase | Sign-in authentication | Social login identifier, email |
 | Amazon Web Services (AWS) | Server hosting and storage | Service data incl. profile and uploaded photos |
-| OpenAI | Menu photo/text analysis for scanning | Menu photos and extracted text (no account identity attached) |
+| OpenAI | Menu and packaged-food photo/text analysis for scanning | Scanned photos and extracted text (no account identity attached) |
+| TypeSafe AI, Inc. (USA) | Identifying whether a scanned photo is a menu (photo-type check) | Scanned photos only, with metadata removed (no account identity attached) |
 
 ### 4. Retention and Deletion
 
 - Account and profile data: deleted without undue delay when you delete your account (in-app: Profile → Delete account).
-- Scanned menu photos: used for scan processing; files failing validation are deleted immediately, and uploaded photos are retained for up to **3 months** and then deleted.
+- Scanned photos: used for scan processing; files failing validation are deleted immediately, and uploaded photos are retained for up to **3 months** and then deleted.
+- Photos sent to processors for analysis (OpenAI, TypeSafe AI) are handled under each processor's data terms; they are not used to train their models and are kept only as long as needed to provide the analysis.
 - Logs kept only as long as needed for security and legal obligations.
 
 ### 5. Your Rights
@@ -65,7 +67,7 @@ K-Bap("서비스")은 한국 방문·거주 외국인이 자신의 식이 제한
 |---|---|---|
 | 계정 | 소셜 로그인 식별자(Apple/Google 고유 ID), 이메일(선택 — Apple은 가리기 가능) | 로그인 |
 | 프로필 | 닉네임, 국적, 앱 언어, **기피 재료(식이 제한)**, 맵기 선호도, 프로필 사진(선택) | 온보딩·프로필 수정 |
-| 이용 | 스캔한 메뉴판 사진과 추출 텍스트, 스캔 횟수, 북마크한 음식 | 서비스 이용 |
+| 이용 | 스캔한 메뉴판·가공식품 포장 사진과 추출 텍스트, 스캔 횟수, 북마크한 음식 | 서비스 이용 |
 | 자동 | 운영·보안에 필요한 접속 기록 | 자동 |
 
 기피 재료 정보는 알레르기·식이 관행을 드러낼 수 있는 정보로, **동의에 기반해 수집**하며 **개인 맞춤 위험도 표시 목적으로만** 사용합니다. 비회원(둘러보기)으로 이용하는 경우 프로필 정보를 수집하지 않습니다.
@@ -86,12 +88,14 @@ K-Bap("서비스")은 한국 방문·거주 외국인이 자신의 식이 제한
 |---|---|---|
 | Google Firebase | 로그인 인증 | 소셜 로그인 식별자, 이메일 |
 | Amazon Web Services(AWS) | 서버 호스팅·저장소 | 프로필·업로드 사진 등 서비스 데이터 |
-| OpenAI | 스캔 기능의 메뉴판 사진·텍스트 분석 | 메뉴판 사진과 추출 텍스트(계정 식별 정보 미포함) |
+| OpenAI | 스캔 기능의 메뉴판·가공식품 포장 사진·텍스트 분석 | 스캔 사진과 추출 텍스트(계정 식별 정보 미포함) |
+| TypeSafe AI, Inc.(미국) | 스캔 사진이 메뉴판인지 판별(사진 종류 확인) | 스캔 사진(메타데이터 제거, 계정 식별 정보 미포함) |
 
 ### 4. 보유 및 파기
 
 - 계정·프로필 정보: 회원 탈퇴(앱 내 프로필 → 계정 삭제) 시 지체 없이 파기합니다.
 - 스캔 사진: 스캔 처리에 사용하며, 검증 실패 파일은 즉시 삭제하고 업로드된 사진은 **3개월** 보관 후 삭제합니다.
+- 분석을 위해 수탁자(OpenAI, TypeSafe AI)에 전송된 사진은 각 수탁자의 데이터 약관에 따라 처리되며, 수탁자의 모델 학습에 사용되지 않고 분석 제공에 필요한 기간만 보관됩니다.
 - 접속 기록은 보안·법령 준수에 필요한 기간만 보관합니다.
 
 ### 5. 이용자의 권리
